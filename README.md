@@ -5,9 +5,9 @@ Este repositorio contiene mis ejercicios diarios de programación en Java. El ob
 ## 📅 Estructura
 Cada carpeta está nombrada según el día del desafío y contiene un ejercicio en Java.  
 - /day01/
-Ejercicio01.java  
-- /dia02/
-Ejercicio02.java
+Exercise01.java  
+- /day02/
+Exercise02.java
 
 ## 🚀 Objetivos
 Practicar programación todos los días
