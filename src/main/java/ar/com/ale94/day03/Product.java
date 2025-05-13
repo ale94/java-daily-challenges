@@ -4,14 +4,13 @@ public class Product {
     private String name;
     private Integer quantity;
     private Double price;
+    private Supplier supplier;
 
-    public Product() {
-    }
-
-    public Product(String name, Integer quantity, Double price) {
+    public Product(String name, Integer quantity, Double price, Supplier supplier) {
         this.name = name;
         this.quantity = quantity;
         this.price = price;
+        this.supplier = supplier;
     }
 
     public String getName() {
@@ -36,6 +35,14 @@ public class Product {
 
     public void setPrice(Double price) {
         this.price = price;
+    }
+
+    public Supplier getSupplier() {
+        return supplier;
+    }
+
+    public void setSupplier(Supplier supplier) {
+        this.supplier = supplier;
     }
 
     @Override
