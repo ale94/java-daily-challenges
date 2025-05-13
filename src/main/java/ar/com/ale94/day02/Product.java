@@ -1,10 +1,16 @@
-package ar.com.ale94.day03;
+package ar.com.ale94.day02;
 
 public class Product {
     private String name;
     private Integer quantity;
     private Double price;
     private Supplier supplier;
+
+    public Product(String name, Integer quantity, Double price) {
+        this.name = name;
+        this.price = price;
+        this.quantity = quantity;
+    }
 
     public Product(String name, Integer quantity, Double price, Supplier supplier) {
         this.name = name;

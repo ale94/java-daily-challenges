@@ -1,4 +1,4 @@
-package ar.com.ale94.day03;
+package ar.com.ale94.day02;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -22,7 +22,7 @@ public class PurchaseOrder {
             System.out.println("- " + p.getName() +
                     " | Cantidad: " + p.getQuantity() +
                     " | Precio: $" + p.getPrice());
-            total += p.getPrice();
+            total += p.getPrice() * p.getQuantity();
         }
         System.out.println("Total de la orden: $" + total);
     }

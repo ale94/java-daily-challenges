@@ -1,4 +1,4 @@
-package ar.com.ale94.day03;
+package ar.com.ale94.day02;
 
 public class Supplier {
     private String name;
