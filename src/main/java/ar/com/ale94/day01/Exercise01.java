@@ -8,7 +8,7 @@
      * La clave es el nombre del contacto.
      * El valor es el número de teléfono.
  */
-package day01;
+package ar.com.ale94.day01;
 
 import java.util.*;
 

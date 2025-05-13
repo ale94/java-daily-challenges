@@ -9,7 +9,7 @@
  * La clave es el nombre del producto.
  * El valor es la cantidad disponible.
  */
-package day02;
+package ar.com.ale94.day02;
 
 import java.util.*;
 

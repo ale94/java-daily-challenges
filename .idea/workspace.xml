@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e64a9ea6-2d18-4aee-b0a2-e907aa126de6" name="Changes" comment="" />
+    <list default="true" id="e64a9ea6-2d18-4aee-b0a2-e907aa126de6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ar/com/ale94/day03/Exercise03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day01/Exercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/com/ale94/day01/Exercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day02/Exercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/com/ale94/day02/Exercise02.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,17 +46,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Ejercicio01.executor": "Run",
-    "Application.Exercise01.executor": "Run",
-    "Application.Exercise02.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ejercicio01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise02.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Exercise02">
     <configuration name="Exercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day01.Exercise01" />
@@ -96,5 +101,16 @@
       <updated>1746844236932</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
